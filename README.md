@@ -1,15 +1,15 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Marc ! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a Retired person with experience in CNC Technologies. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
+- 🌱 Currently learning: GitHub, Home Assistant, YAML
+- 🔭 Working on: Home Assistant Dashboard
+- 🌍 Languages: G-code, American English
+- 📫 How to reach me: jaggeda@aol.com
 - ⚡ Fun fact: **[a fun fact about yourself]**
 
 ## My Skills 🧠
